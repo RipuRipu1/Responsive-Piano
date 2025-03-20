@@ -9,6 +9,11 @@ html{
     /* "::after" elector creates a pseudo-element which is the last child of the selected element. */
 }
 
+h1, p{
+    text-align: center;
+    margin-bottom: 10px;
+}
+
 #piano{
     background-color: #00471b;
     width: 992px;
